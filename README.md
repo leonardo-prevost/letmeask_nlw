@@ -1,3 +1,41 @@
+💻Letmeask
+
+✨This aplication create rooms Q&E in real time ✨
+
+
+![create_room](https://user-images.githubusercontent.com/46681477/127544273-ea091506-47f8-407d-9cdc-f6489ac4f26e.png)
+
+
+
+✨login_room✨
+![letmeask_login](https://user-images.githubusercontent.com/46681477/127545582-1aab4507-ab25-4336-858f-54ddca64d2b7.png)
+
+
+
+
+✨question_room✨
+![question_room](https://user-images.githubusercontent.com/46681477/127545730-c2076554-3889-4f98-8f9c-6ad3100a1b24.png)
+
+
+
+
+
+### Technnologies
+
+✔REACTJS
+✔JAVASCRIPT
+✔TYPESCRIPT
+✔HTML5
+✔CSS3
+✔FIREBASE
+
+
+
+### How to execute aplication?
+
+⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
