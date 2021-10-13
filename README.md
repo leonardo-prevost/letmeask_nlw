@@ -20,7 +20,7 @@
 
 
 
-### Technnologies
+### Technologies
 
 ✔REACTJS
 ✔JAVASCRIPT
